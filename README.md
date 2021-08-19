@@ -1,3 +1,3 @@
 ## My Learning
 
- Repo for my Java latest learnings.
+ Repo for my latest Java learning.
