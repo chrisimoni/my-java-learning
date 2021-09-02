@@ -18,7 +18,7 @@ public class StreamExample {
 				.filter(studentPredicate)
 				.filter(studentGpaPredicate)
 				.collect(Collectors.toMap(Student::getName, Student::getActivities));
-		
+				
 		System.out.println(studentMap);
 
 	}
